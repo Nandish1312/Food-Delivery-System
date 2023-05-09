@@ -1,0 +1,8 @@
+                                         FINAL BILL
+
+Sarthak your bill amount is: $21
+Discount is: $5.
+Net amount to pay: $16
+Your account is linked to the phone number:74988 and will be delivered to the address Avenue-road
+
+Enjoy your meal!

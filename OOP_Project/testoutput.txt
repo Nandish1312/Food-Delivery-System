@@ -1,0 +1,4 @@
+echo Test 01: Order from Dominoes and $19.25 total
+./output < input1.txt | diff - output1.txt
+echo Test 02: Order from Dominoes and $16 total
+./output < input2.txt | diff - output2.txt
